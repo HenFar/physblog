@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "All Posts",
+    "section": "",
+    "text": "First Physics Post"
+  },
+  {
+    "objectID": "posts/index.html#blog-posts",
+    "href": "posts/index.html#blog-posts",
+    "title": "All Posts",
+    "section": "",
+    "text": "First Physics Post"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ununderstanding Pheno",
+    "section": "",
+    "text": "Hi there.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "posts/first-post.html",
+    "href": "posts/first-post.html",
+    "title": "First Post",
+    "section": "",
+    "text": "Welcome to my physics blog!\nMaxwell’s equation in LaTeX: \\[\n\\nabla \\cdot \\vec{E} = \\frac{\\rho}{\\varepsilon_0}\n\\]"
+  }
+]

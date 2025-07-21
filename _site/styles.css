@@ -1,0 +1,52 @@
+/* css styles */
+
+/* Dark background and soft text colors */
+body {
+    background-color: #121212;
+    color: #cccccc;
+    font-family: 'Georgia', serif;
+    line-height: 1.6;
+    padding: 2rem;
+    max-width: 800px;
+    margin: auto;
+}
+
+/* Headers slightly brighter for hierarchy */
+h1, h2, h3 {
+    color: #eeeeee;
+}
+
+/* Links in a softer tone */
+a {
+    color: #66b2b2;
+    text-decoration: none;
+}
+a:hover {
+    color: #99ccff;
+    text-decoration: underline;
+}
+
+/* Navbar styling */
+.navbar {
+    background-color: #1e1e1e !important;
+}
+.navbar .nav-link, .navbar-brand {
+    color: #cccccc !important;
+}
+.navbar .nav-link:hover {
+    color: #eeeeee !important;
+}
+
+/* Code blocks */
+pre, code {
+    background-color: #1e1e1e;
+    color: #dddddd;
+    padding: 0.2rem 0.4rem;
+    border-radius: 4px;
+}
+
+/* Center math equations nicely */
+.math.display {
+    text-align: center;
+    margin: 1rem 0;
+}

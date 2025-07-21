@@ -1,0 +1,12 @@
+---
+title: "First Post"
+date: "2024-07-21"
+format: html
+---
+
+Welcome to my physics blog!
+
+Maxwell’s equation in LaTeX:
+$$
+\nabla \cdot \vec{E} = \frac{\rho}{\varepsilon_0}
+$$
